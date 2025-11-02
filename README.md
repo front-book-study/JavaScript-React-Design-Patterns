@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <td align="center">11/9(일)</td>
-<th align="left">7장 1/2</th>
+<th align="left">7장 1/2 (7.12 까지)</th>
 </tr>
 <tr>
 <td align="center" colspan="5">3주차</td>
